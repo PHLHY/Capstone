@@ -1,5 +1,5 @@
-# Capstone-
-CKME136 
+# CKME136 - Capstone Project - TalkingData AdTracking Fraud Detection Challenge
+https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
 
 Click fraud is the act of generating fraudulent clicks on pay-per-click advertisements which results in artificially inflating web traffic and potential loss of revenue to the advertiser. 
 
